@@ -8,6 +8,7 @@ Ensure your pull request adheres to the following guidelines:
 - You should of course have read the thing you're submitting.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[name](link) - Author`
+- Use proper format and grammar.
 - Start the author with a capital for first name and last name.
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome.
