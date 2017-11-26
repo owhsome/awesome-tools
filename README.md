@@ -14,3 +14,6 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Browser Extensions
 * [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj) - Mohammed N. El-Madhoun
+
+## Image Editors
+* [ResizeImage.net](http://resizeimage.net/)
