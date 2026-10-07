@@ -17,3 +17,6 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 ## Image Editors
 * [ResizeImage.net](http://resizeimage.net/)
+
+## Calculators
+* [FollowerKaufen.at Growth Pace Planner (German)](https://followerkaufen.at/tools/follower-growth) - Tomáš Přibyl (operator)
