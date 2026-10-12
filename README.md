@@ -9,6 +9,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 
 
+## Audio Tools
+* [QuietTake](https://noiseremover.site/) - QuietTake
+
 ## Generators
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables).
 
