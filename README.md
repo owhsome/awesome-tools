@@ -16,4 +16,5 @@ You can follow me on [Twitter](https://twitter.com/ThodorisBais).
 * [Invite All Friends on Facebook](https://chrome.google.com/webstore/detail/invite-all-friends-on-fac/inmmhkeajgflmokoaaoadgkhhmibjbpj) - Mohammed N. El-Madhoun
 
 ## Image Editors
+* [ImgFlow](https://imgflow.taoliapp.com/en/) - Browser image compressor and converter (PNG/JPG/HEIC/WebP/AVIF); core processing stays on-device.
 * [ResizeImage.net](http://resizeimage.net/)
